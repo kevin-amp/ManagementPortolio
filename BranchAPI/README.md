@@ -35,4 +35,4 @@ import api as usual with
 
 ## Publishing API Project
 
-Change status field in `api.yaml` from `CREATED` to `PUBLISHED` and import it
+Change status field in `api.yaml` from `CREATED` to `PUBLISHED` and import it.
